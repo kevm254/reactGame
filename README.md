@@ -1,2 +1,0 @@
-# reactGame
-Created with CodeSandbox
